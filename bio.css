@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-image: url(pics/whitewood.png);
+}
+nav{
+    text-align: center;
+    
+}
+nav a:visited{
+    color: black;
+}
+nav a:hover{
+    color: gray;
+    box-shadow:  0 0 25px 5px black
+}
+nav li{
+    display: inline;
+    text-align: center;
+    font-size: x-large;
+    padding: 20px;
+}
+div{
+ text-align: center;
+}
+.info{
+    background-color: rgba(150, 149, 149, 0.836);
+    font-size: xxx-large;
+}

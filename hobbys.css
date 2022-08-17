@@ -1,0 +1,60 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-image: url(pics/whitewood.png);
+}
+nav{
+    text-align: center;
+    
+}
+nav a:visited{
+    color: black;
+}
+nav a:hover{
+    color: gray;
+    box-shadow:  0 0 25px 5px black
+}
+nav li{
+    display: inline;
+    text-align: center;
+    font-size: x-large;
+    padding: 20px;
+}
+video{
+    height: 442px;
+}
+img{
+    width: 300px;
+}
+.printer{
+    padding: 40px;
+}
+.row{
+    float: left;
+    padding-right: 70px;
+}
+
+.col::after{
+    content: "";
+    /* padding-left: 20; */
+    display: table;
+}
+.disc{
+    padding: 40px;
+}
+.disc img{
+    height: 350px;
+    padding-right: 40px;
+}
+.car{
+    padding: 40px;
+}
+.car img{
+    height: 350px;
+    width: 800px;
+}
+p{
+    font-size: xx-large;
+}

@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-image: url(pics/whitewood.png);
+}
+table{
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: center;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}   
+ table td, hr{
+    border-collapse: collapse;
+    border-style: none;
+    border-width: 1px;
+    padding: 40px;
+    width: 60%;
+    font-size: xxx-large;
+}
+.info a:link{
+    color: black;
+}
+.info a:hover{
+    color: gray;
+    box-shadow:  0 0 25px 5px black;
+}
+.info a:visited{
+    color: black;
+}
+.girl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

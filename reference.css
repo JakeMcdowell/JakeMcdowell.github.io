@@ -1,0 +1,48 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-image: url(pics/whitewood.png);
+}
+nav{
+    text-align: center;
+    
+}
+nav a:visited{
+    color: black;
+}
+nav a:hover{
+    color: gray;
+    box-shadow:  0 0 25px 5px black
+}
+nav li{
+    display: inline;
+    text-align: center;
+    font-size: x-large;
+    padding: 20px;
+}
+td{
+    font-size: xxx-large;
+}
+img{
+    width: 280px;
+}
+aside{
+    float: left;
+}
+.info{
+    float: right;
+    list-style-type: none;
+   
+}
+.ref{
+    padding-top: 10%;
+    padding-bottom:20%;
+}
+p{
+    font-size: xx-large;
+}
+p img{
+    width: 40px;
+}
