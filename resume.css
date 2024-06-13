@@ -6,9 +6,10 @@ body{
     background-image: url(pics/whitewood.png);
 }
 nav{
-    text-align: center;
+    text-align: center; 
     
 }
+
 nav a:visited{
     color: black;
 }
@@ -23,7 +24,7 @@ nav li{
     padding: 20px;
 }
 .resume{
-    background-color: rgba(150, 149, 149, 0.836);
+    background-color: rgba(150, 149, 149, 0.638);
     padding: 3%;
 }
 
